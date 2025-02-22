@@ -1,8 +1,6 @@
-![oreilly-logo](images/oreilly.png)
-
 # AI Agents A-Z
 
-This repository contains code for the [O'Reilly Live Online Training for AI Agents A-Z](https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604)
+https://learning.oreilly.com/live-events/ai-agents-a-z/0642572007604)
 
 This course provides a comprehensive guide to understanding, implementing, and managing AI agents both at the prototype stage and in production. Attendees will start with foundational concepts and progressively delve into more advanced topics, including various frameworks like CrewAI, LangChain, and AutoGen as well as building agents from scratch using powerful prompt engineering techniques. The course emphasizes practical application, guiding participants through hands-on exercises to implement and deploy AI agents, evaluate their performance, and iterate on their designs. We will go over key aspects like cost projections, open versus closed source options, and best practices are thoroughly covered to equip attendees with the knowledge to make informed decisions in their AI projects.
 
@@ -142,7 +140,4 @@ python3 -m jupyter notebook
 
 	-  **[Reflection Agents](notebooks/LangGraph_Reflect.ipynb)** - Reflection Agents combine a generator to perform tasks and a reflector to provide feedback and guide improvements.
 
-## Instructor
-
-**Sinan Ozdemir** is the Founder and CTO of LoopGenius where he uses State of the art AI to help people run digital ads on Meta, Google, and more. Sinan is a former lecturer of Data Science at Johns Hopkins University and the author of multiple textbooks on data science and machine learning. Additionally, he is the founder of the recently acquired Kylie.ai, an enterprise-grade conversational AI platform with RPA capabilities. He holds a master’s degree in Pure Mathematics from Johns Hopkins University and is based in San Francisco, CA.
 
